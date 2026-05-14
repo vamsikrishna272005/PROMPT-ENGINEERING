@@ -59,7 +59,7 @@ Step 7: Finalize and Export
 
 # Output
 
-1. 🌱 Foundational Concepts of Generative AI
+1.  Foundational Concepts of Generative AI
 
 Generative Artificial Intelligence (Generative AI) is a branch of AI that focuses on creating new data that resembles existing data. Instead of simply analyzing or classifying information, generative models learn patterns and structures from large datasets and use that knowledge to produce original outputs such as text, images, audio, or even code.
 
@@ -98,7 +98,7 @@ c) Latent Space Representation
     | Learning | Often supervised    | Mostly self-supervised |
     | Example  | Spam detection      | ChatGPT-like systems   |
 
-2. 🏗️ Generative AI Architectures (Focus on Transformers)
+2.  Generative AI Architectures (Focus on Transformers)
 
 Generative AI relies on powerful neural network architectures to learn patterns from data and generate meaningful outputs. Among these, the most influential and widely used architecture today is the
 Transformer.
@@ -136,7 +136,7 @@ Transformers rely heavily on attention, allowing the model to focus on important
 * Code generation systems
 * Image generation (via transformer-based diffusion models)
 
-3. 🚀 Applications of Generative AI
+3.  Applications of Generative AI
 Generative AI is transforming industries by automating creativity, enhancing productivity, and enabling personalization.
 
 Industry-Wise Applications:
@@ -158,7 +158,7 @@ Popular Tools:
 * MusicLM, Jukebox (audio)
 * GitHub Copilot (code)
 
-4. 📈 Impact of Scaling in LLMs
+4.  Impact of Scaling in LLMs
 Scaling refers to increasing model size, training data, and compute resources to improve performance.
 
 Benefits of Scaling:
